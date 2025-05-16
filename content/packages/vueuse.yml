@@ -1,0 +1,7 @@
+name: vueuse
+description: Collection of essential Vue Composition Utilities
+npm: "@vueuse/core"
+github: "vueuse/vueuse"
+website: "https://vueuse.org/"
+compatibility: "Vue 3"
+category: "Utilities"

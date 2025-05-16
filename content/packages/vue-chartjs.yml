@@ -1,0 +1,7 @@
+name: vue-chartjs
+description: Vue wrapper for Chart.js for creating charts and graphs
+npm: vue-chartjs
+github: apertureless/vue-chartjs
+website: https://vue-chartjs.org/
+compatibility: Vue 2 & Vue 3
+category: Analytics

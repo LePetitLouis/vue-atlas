@@ -1,0 +1,7 @@
+name: unplugin-vue-components
+description: On-demand component auto importing for Vue
+npm: unplugin-vue-components
+github: unplugin/unplugin-vue-components
+website: https://github.com/unplugin/unplugin-vue-components
+compatibility: Vue 3
+category: Devtools

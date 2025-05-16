@@ -1,0 +1,7 @@
+name: vue-i18n
+description: Internationalization plugin for Vue.js
+npm: vue-i18n
+github: intlify/vue-i18n
+website: https://vue-i18n.intlify.dev/
+compatibility: Vue 2 & Vue 3
+category: UI

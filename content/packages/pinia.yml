@@ -1,0 +1,7 @@
+name: pinia
+description: The intuitive store for Vue.js
+npm: pinia
+github: vuejs/pinia
+website: https://pinia.vuejs.org/
+compatibility: Vue 3
+category: Extensions

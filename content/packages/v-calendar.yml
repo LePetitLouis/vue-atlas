@@ -1,0 +1,7 @@
+name: v-calendar
+description: A powerful calendar and date picker for Vue
+npm: v-calendar
+github: nathanreyes/v-calendar
+website: https://vcalendar.io/
+compatibility: Vue 2 & Vue 3
+category: Date

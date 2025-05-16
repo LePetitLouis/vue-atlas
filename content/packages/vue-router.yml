@@ -1,0 +1,7 @@
+name: vue-router
+description: The official router for Vue.js
+npm: vue-router
+github: vuejs/router
+website: https://router.vuejs.org/
+compatibility: Vue 3
+category: Extensions
